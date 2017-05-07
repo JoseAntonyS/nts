@@ -213,3 +213,22 @@ section.testimonials{
   /*background: url(../../assets/img/raja.jpg) no-repeat;*/
 }
 
+.features .rules{
+  background-color: #800000;
+  margin-left: 200px;  
+  margin-right: 200px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+}
+
+.features .rules li {
+    /*list-style: decimal-leading-zero;*/
+    font-size: 1.60em;
+    margin: 0 0 0 2em;
+}
+
+.features .rules li span {
+    font-size: .70em;
+}
