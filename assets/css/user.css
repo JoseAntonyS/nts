@@ -223,13 +223,13 @@ section.testimonials{
   padding-right: 20px;
 }
 
-.features .rules li {
+.features .container li {
     /*list-style: decimal-leading-zero;*/
     font-size: 1.60em;
     margin: 0 0 0 2em;
 }
 
-.features .rules li span {
+.features .container li span {
     font-size: .70em;
 }
 
